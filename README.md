@@ -1,1 +1,1 @@
-# hielo site teamplate edits
+# hielo site template edits
